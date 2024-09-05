@@ -1,8 +1,8 @@
 # Programming Assignment 2: Numerical Python
-##### This repository contains three problems emphasizing different aspects of Python programming, including ndarrays, storing, and extracting files. Each problem presents unique challenges that enhance understanding of data structures and algorithmic thinking in Python.
+##### *This repository contains three problems emphasizing different aspects of Python programming, including ndarrays, storing, and extracting files. Each problem presents unique challenges that enhance understanding of data structures and algorithmic thinking in Python.*
 
 ## 1. Normalization Problem
-###### This code create a random 5 x 5 ndarray and store it to variable X, namely "Normalize X", and saves it as an npy file. It then loads the file and normalizes the matrix, and prints the mean, standard deviation, and normalized matrix.
+###### *This code create a random 5 x 5 ndarray and store it to variable X, namely "Normalize X", and saves it as an npy file. It then loads the file and normalizes the matrix, and prints the mean, standard deviation, and normalized matrix.*
 ```Ruby
 # Imports numpy library and assigns it np
 import numpy as np
@@ -31,7 +31,7 @@ print("\nNormalized Matrix:\n\n", X_normalized)
 ```
 
 ## 2. Divisible by 3 Problem
-###### This code creates a 10 x 10 ndarray and stores it to a variable A, namely "A div3", and saves it as an npy file. It then loads the npy file and pulls numerical values divisibly by 3 from the 10 x 10 ndarray.
+###### *This code creates a 10 x 10 ndarray and stores it to a variable A, namely "A div3", and saves it as an npy file. It then loads the npy file and pulls numerical values divisibly by 3 from the 10 x 10 ndarray.*
 ```Ruby
 # Imports numpy library and assigns it np
 import numpy as np
