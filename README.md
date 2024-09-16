@@ -1,5 +1,6 @@
-# Programming Assignment 2: Numerical Python
-#### *This repository contains two problems emphasizing different aspects of Python programming, including ndarrays, storing, and extracting files. Each problem presents unique challenges that enhance understanding of data structures and algorithmic thinking in Python.*
+# 📝 Programming Assignment 2: Numerical Python
+> [!NOTE]
+> #### *This repository contains two problems emphasizing different aspects of Python programming, including ndarrays, storing, and extracting files. Each problem presents unique challenges that enhance understanding of data structures and algorithmic thinking in Python.*
 
 ## 1. Normalization Problem
 #### *This code create a random 5 x 5 ndarray and store it to variable X, namely "Normalize X", and saves it as an npy file.*
@@ -109,3 +110,17 @@ The Elements that are divisible by 3:
  7569 8100 8649 9216 9801]
 ```
 ###### ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+## 👨‍💻 Author
+#### *Zildjan Zatyr C. Ponce | 2ECE - A* 
+#### *University of Santo Tomas*
+#### *September 10, 2024*
+
+## 🔑 Version History
+- 1.01
+  - REAADME file was completed
+  - File containing the codes was added
+  - About section was added
+- 1.00
+  - This repository was established
+  - README.md was created
